@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyTracker</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="continuee">Continue</string>
+    <string name="msg">Welcome to MyTracker.If u want to use this app we need location permission please provide those permissions to continue with this app</string>
+    <string name="distance">Distance</string>
+    <string name="result">%1$s km</string>
+</resources>
